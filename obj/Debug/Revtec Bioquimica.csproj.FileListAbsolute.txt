@@ -1,0 +1,225 @@
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.exe.config
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.exe
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.pdb
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Properties.Resources.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.GenerateResource.cache
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.CoreCompileInputs.cache
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.exe
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.pdb
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Emerson.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\MySql.Data.dll
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.CopyComplete
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csprojAssemblyReference.cache
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Principal.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Usuarios.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Clientes.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Fornecedor.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Pedidos.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Google.Protobuf.dll
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\BouncyCastle.Crypto.dll
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Renci.SshNet.dll
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Lotes.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Rotulos.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Estoque.resources
+C:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Expedição.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.exe.config
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.exe
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.pdb
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\MySql.Data.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Google.Protobuf.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\BouncyCastle.Crypto.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Renci.SshNet.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Emerson.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Properties.Resources.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Clientes.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Estoque.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Expedição.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Fornecedor.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Lotes.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Pedidos.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Principal.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Rotulos.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Usuarios.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.GenerateResource.cache
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.CoreCompileInputs.cache
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.CopyComplete
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.exe
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.pdb
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Login.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\EnvDTE.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Ubiety.Dns.Core.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\stdole.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.MSXML.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\RdlCompile.cache
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\RdlCompile.compiled
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormLotes.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormSelecaoDeRelatorio.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormPedidoComIdGuia.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.exe.config
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.exe
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Revtec Bioquimica.pdb
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\MySql.Data.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\EnvDTE.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Google.Protobuf.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\BouncyCastle.Crypto.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Ubiety.Dns.Core.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Renci.SshNet.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\stdole.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\Microsoft.MSXML.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csprojAssemblyReference.cache
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormLotes.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormPedidoComIdGuia.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormSelecaoDeRelatorio.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Emerson.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Properties.Resources.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Clientes.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Estoque.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Expedição.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Fornecedor.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Login.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Lotes.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Pedidos.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Principal.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Rotulos.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.View.Usuarios.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.GenerateResource.cache
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\RdlCompile.cache
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\RdlCompile.compiled
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csproj.CopyComplete
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.exe
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.pdb
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec Bioquimica.csprojAssemblyReference.cache
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormRelatorioExpedicaoDataInicialDataFinal.resources
+E:\src\cSharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormRelatorioVendasPorClienteComData.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormRelatorioExpedicaoDataInicialDataFinal.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormRelatorioVendasPorClienteComData.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormVendaPorProduto.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormRelatorioProdutoAcabado.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormRelatorioProdutoAcabadoPositivo.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormProdutoAcabadoEmFalta.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormRelatoriosDeLotes.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormRelatorioLotePositivo.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormLoteEmFalta.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormMateriaPrimaEmEstoque.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormMateriaPrimaEmFalta.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormMateriaPrimaTodas.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormEmbalagemNegativa.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormEmbalagemPositiva.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormEmbalagemTodas.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormCaixasNegativas.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormCaixasPositiva.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormCaixasTodas.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormTampaNegativa.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormTampaPositiva.resources
+D:\Desenvolvimento\Csharp\Revtec Bioquimica\Revtec Bioquimica\obj\Debug\Revtec_Bioquimica.Relatorio.FormTampaTodas.resources
